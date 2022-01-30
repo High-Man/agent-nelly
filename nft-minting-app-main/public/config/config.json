@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF4051e26A5921b5b212a838f622D80B629d3f887",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf4051e26a5921b5b212a838f622d80b629d3f887",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Agent Nelly",
+  "SYMBOL": "NellyNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/agent-nelly",
+  "SHOW_BACKGROUND": true
+}
